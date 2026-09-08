@@ -1,1 +1,1 @@
-prian = "hlleo"+"marry"
+print = "hlleo"+"marry"
