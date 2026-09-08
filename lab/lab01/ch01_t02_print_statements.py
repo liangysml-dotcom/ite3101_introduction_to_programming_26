@@ -1,1 +1,1 @@
-print("hello wrold")  # python3
+print("hello wrold")
