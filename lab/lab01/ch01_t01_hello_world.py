@@ -1,1 +1,1 @@
-print
+print(hello,my first python lab)
