@@ -7,3 +7,4 @@ print("Hello %s"%(name))
 
 day = 6
 print('03-%s-2019'%(day))
+print('03-%s-2019'%(day))
