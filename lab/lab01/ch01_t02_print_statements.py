@@ -1,1 +1,1 @@
-print("hlleo"+"marry")
+print("hlleo" + " marry")
