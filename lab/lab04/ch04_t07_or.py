@@ -2,7 +2,7 @@ bool_one = True
 
 bool_two = True or False
 
-bool_three = None
+bool_three = False
 
 bool_four = True
 
