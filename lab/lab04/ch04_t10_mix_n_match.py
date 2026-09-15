@@ -1,10 +1,10 @@
 # Use boolean expressions as appropriate on the lines below!
 
 # Make me false!
-bool_one = 
+bool_one = False
 
 # Make me true!
-bool_two = None
+bool_two = True
 
 # Make me false!
 bool_three = None
