@@ -10,7 +10,7 @@ bool_two = 7 <= 12
 bool_three = 5 < 1
 
 # Make me false!
-bool_four = 4 != 9
+bool_four = 5 == 10
 
 # Make me true!
 bool_five = 4 != 9
