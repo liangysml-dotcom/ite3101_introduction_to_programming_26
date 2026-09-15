@@ -1,4 +1,4 @@
-bool_one = True%
+bool_one = True%8%2
 
 bool_two = True or False
 
