@@ -1,1 +1,1 @@
-original = input
+original = input("Enter")
