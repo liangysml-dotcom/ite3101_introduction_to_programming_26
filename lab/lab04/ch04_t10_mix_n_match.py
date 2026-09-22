@@ -4,7 +4,7 @@
 bool_one = not (5>1)and (3==3)or (10<2)
 
 # Make me true!
-bool_two = None
+bool_two = 
 
 # Make me false!
 bool_three = None
