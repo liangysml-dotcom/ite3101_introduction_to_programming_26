@@ -4,8 +4,7 @@
 bool_one = not (5>1)and (3==3)or (10<2)
 
 # Make me true!
-bool_two = not (1==2)and (8>3)and("hi"=="hi")
-
+bool_two = not 
 # Make me false!
 bool_three = not (9<10)and (100<1)and (4+1==5)
 
