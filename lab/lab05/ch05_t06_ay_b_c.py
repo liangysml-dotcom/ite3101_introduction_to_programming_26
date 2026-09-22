@@ -1,4 +1,4 @@
 original = input("Enter a word")
 pyg = 'ay'
 
-if len
+if len(original)> 0 and original.isalphal()
