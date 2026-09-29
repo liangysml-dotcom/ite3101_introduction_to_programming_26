@@ -5,6 +5,6 @@
 
 # Define the spam function above this line.
 def spam():
-    """"Prints the string Eggs! to the console.""
+    """Prints the string Eggs! to the console."""
 sprint("Eggs!")
 spam()
