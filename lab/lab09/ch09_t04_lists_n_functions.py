@@ -8,4 +8,4 @@ def fizz_count(x:list[str]):
             count +=1
         return count
 
-print(fizz_count(["fizz"]))
+print(fizz_count(["fizz", "cat", "fizz","fizz"]))
