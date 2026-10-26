@@ -1,2 +1,2 @@
-print(hotel_cost(3))
-print(hotel_cost(7))
+def hotel_cost(nights):
+    return 140 * nights
