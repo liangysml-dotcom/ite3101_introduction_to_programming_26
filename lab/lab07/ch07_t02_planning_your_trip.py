@@ -1,1 +1,1 @@
-print(ho)
+def ho
