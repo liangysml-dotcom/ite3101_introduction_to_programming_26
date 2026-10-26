@@ -1,1 +1,1 @@
-def ho
+print(hotel_cost(3))
