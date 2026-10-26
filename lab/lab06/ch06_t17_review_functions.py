@@ -1,0 +1,3 @@
+def shut_down(s):
+    if s == "yes"
+    return "Shutting down..."
