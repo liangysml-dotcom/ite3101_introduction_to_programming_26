@@ -29,4 +29,5 @@ def get_aveage(student):
     homework = average(student["homework"])
     quizzes = average(student["quizzes"])
     tests = average(student["tests"])
-    
+    weighted = 0.1 * homework + 0.3 * quizzes + 0.6 * tests
+    return weighted
