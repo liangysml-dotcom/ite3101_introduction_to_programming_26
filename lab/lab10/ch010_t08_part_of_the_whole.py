@@ -44,7 +44,8 @@ def get_letter_grade(score: float) -> str:
     else:
         return "F"
 
-
+def get_class_average(class_list):
+    res
 print(get_letter_grade(get_average(lloyd)))
 
 # Add your function below!
