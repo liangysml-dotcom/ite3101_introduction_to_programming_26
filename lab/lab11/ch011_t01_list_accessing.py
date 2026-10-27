@@ -1,4 +1,4 @@
-n = [1, 3, 5]
+my
 
 # Add your code below
 print(my_list[1])
