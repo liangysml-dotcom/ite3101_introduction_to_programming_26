@@ -11,7 +11,7 @@ alice = {
     "tests": []
 }
 tyler = {
-    "name": "Lloyd",
+    "name": "Tyler",
     "homewrk": [],
     "quizzes": [],
     "tests": []
