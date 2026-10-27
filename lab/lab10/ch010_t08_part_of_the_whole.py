@@ -46,6 +46,9 @@ def get_letter_grade(score: float) -> str:
 
 def get_class_average(class_list):
     results = []
+    for student in class_list:
+
+re
 print(get_letter_grade(get_average(lloyd)))
 
 # Add your function below!
