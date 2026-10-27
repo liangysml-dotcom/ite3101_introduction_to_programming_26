@@ -2,4 +2,4 @@ board = []
 for i in range(5):
     board.append(['O'] * 5)
 
-def print_borad(board_in:List{list[str]})
+def print_board(board_in:List{list[str]})
