@@ -1,4 +1,4 @@
-my_list = ["apple","banana","cherry"]
+n = [1, 3, 5]
 
 # Add your code below
-print(my_list[1])
+print
