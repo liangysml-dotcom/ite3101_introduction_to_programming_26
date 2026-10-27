@@ -49,4 +49,8 @@ def get_letter_grade(score):
     if score >= 70:
         return "C"
     if score >= 60:
-        
+        return "D"
+    else:
+        return "F"
+
+print(get_letter_grade(get_average(lloyd)))
