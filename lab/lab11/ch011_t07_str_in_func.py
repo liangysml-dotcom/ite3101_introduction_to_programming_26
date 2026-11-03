@@ -4,3 +4,4 @@ def string_function(g):
     return g + "word"
 
 # print(string_function(n))
+n = "hello"
