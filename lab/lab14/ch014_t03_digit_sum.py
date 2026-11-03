@@ -1,1 +1,1 @@
-def dig
+def digit_sum
