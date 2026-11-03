@@ -45,6 +45,6 @@ def get_letter_grade(score: float) -> str:
         return "F"
 
 
-print(get_letter_grade(ge))
+print(get_letter_grade(get_average))
 
 # Add your function below!
