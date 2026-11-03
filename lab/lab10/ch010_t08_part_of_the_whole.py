@@ -44,13 +44,7 @@ def get_letter_grade(score: float) -> str:
     else:
         return "F"
 
-def get_class_average(class_list):
-    results = []
-    for student in class_list:
 
-results.append(get_average(student))
-return average(results)
-print(get_class_average(students))
-print(get_letter_grade(get_average(students)))
+
 
 # Add your function below!
