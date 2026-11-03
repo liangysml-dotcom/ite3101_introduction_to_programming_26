@@ -16,4 +16,3 @@ inventory['pouch'].sort()
 inventory['pocket'] = ['seashell', 'strange berry', 'lint']
 inventory['backpack'].sort()
 inventory['gold'] += 50
-print(inventory)
