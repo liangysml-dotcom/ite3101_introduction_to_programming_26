@@ -14,6 +14,6 @@ total = 0
 
 for key in prices:
     print(key)
-    print("pri")
+    print("price: %s" % prices[key])
 
 print(total)
