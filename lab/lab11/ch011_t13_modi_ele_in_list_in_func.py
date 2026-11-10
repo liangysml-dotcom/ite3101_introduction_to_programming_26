@@ -7,4 +7,9 @@ for i in range(0, len(x)):
 return new_list
 # Don't forget to return your new list!
 
-# print(double_list(n))
+def double_list(x:List{int}) -> List[int]:
+    for i in range(0,len(x)):
+        x[i] = x[i] * 2
+    return x 
+
+print(double_list(n))
