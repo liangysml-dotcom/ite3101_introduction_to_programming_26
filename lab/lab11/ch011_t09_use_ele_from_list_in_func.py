@@ -1,6 +1,6 @@
 from typing import List
 
-def list_fumction(x: List[int]) -> Listint:
+def list_fumction(x: List[int]) -> List[]:
     return x[1]
 
 
