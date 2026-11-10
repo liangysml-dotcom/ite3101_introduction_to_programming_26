@@ -6,4 +6,4 @@ def list_fumction(x: List[int]) -> List[int]:
 
 
 n = [3, 5, 7]
-print(list_fumction(n))
+print(list_function(n))
