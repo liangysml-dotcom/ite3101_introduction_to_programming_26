@@ -1,6 +1,6 @@
 n = [3, 5, 7]
 
-def double_list = []
+def double_list(x):
     new_list = []
 for i in range(0, len(n)):
     new_list append(x[i] * 2)
