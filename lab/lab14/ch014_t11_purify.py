@@ -2,4 +2,4 @@
 from typing import List
 
 
-def purif
+def purify
