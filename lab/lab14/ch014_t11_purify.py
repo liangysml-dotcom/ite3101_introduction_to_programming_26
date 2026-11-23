@@ -2,4 +2,4 @@
 from typing import List
 
 
-def purify
+def purify(seq)
