@@ -2,4 +2,4 @@
 from typing import List
 
 
-def purify(seq: List[])
+def purify(seq: List[int]) -> List
